@@ -1,0 +1,22 @@
+{
+    "name": "90s-anime",
+    "displayName": "90s Anime",
+    "description": "Moon Prism Power, Make Up!",
+    "version": "0.0.1",
+    "publisher": "Sitrusy",
+    "engines": {
+        "vscode": "^1.20.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "90s Anime",
+                "uiTheme": "vs-dark",
+                "path": "./themes/90s Anime-color-theme.json"
+            }
+        ]
+    }
+}
